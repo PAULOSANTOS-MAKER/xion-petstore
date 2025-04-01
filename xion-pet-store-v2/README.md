@@ -76,6 +76,6 @@ Sinta-se livre para clonar o repositório, executar localmente e sugerir melhori
 
 ## ⚠️ Observação
 
-Este projeto é parte de um desafio oficial da Burnt/XION, e foi construído com fins educativos, demonstrando como criar um produto Web3 funcional com foco na experiência do usuário.
+Este projeto é parte de um desafio oficial da **NearX Innovation School**, e foi construído com fins educativos, demonstrando como criar um produto Web3 funcional com foco na experiência do usuário.
 
 ### 🔥 Let’s bring your pet to the blockchain!
